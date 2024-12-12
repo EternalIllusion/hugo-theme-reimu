@@ -1,13 +1,13 @@
 // Colors
 :root {
-  --red-0: #ff0000;
-  --red-1: #ff5252;
-  --red-2: #ff7c7c;
-  --red-3: #ffafaf;
-  --red-4: #ffd0d0;
-  --red-5: #ffe4e4;
-  --red-5-5: #ffecec;
-  --red-6: #fff3f3;
+  --red-0: #228898;
+  --red-1: #309FB1;
+  --red-2: #54B8C8;
+  --red-3: #5AC4D5;
+  --red-4: #68D7E9;
+  --red-5: #8BE0EE;
+  --red-5-5: #BCF6FF;
+  --red-6: #C6F0F7;
 
   --grey-9: #999;
   --grey-7: #777;
@@ -28,8 +28,8 @@
   --color-meta-shadow: var(--red-6);
   --color-hover-shadow: rgba(150, 150, 150, 0.1);
   --color-h2-after: var(--red-1);
-  --color-red-6-shadow: rgba(255, 78, 78, 0.6);
-  --color-red-3-shadow: rgba(255, 78, 78, 0.3);
+  --color-red-6-shadow: rgba(48, 159 ,177, 0.6);
+  --color-red-3-shadow: rgba(48, 159 ,177, 0.3);
 
   --highlight-nav: #e6e6e6;
   --highlight-scrollbar: #d6d6d6;
@@ -45,19 +45,23 @@
   --highlight-aqua: #479d9d;
   --highlight-blue: #1973b8;
   --highlight-purple: #7135ac;
-
+/*"
   --cursor-default: url(../images/cursor/reimu-cursor-default.png), auto;
-  --cursor-pointer: url(../images/cursor/reimu-cursor-pointer.png), pointer;
+   --cursor-pointer: url(../images/cursor/reimu-cursor-pointer.png), pointer;
   --cursor-text: url(../images/cursor/reimu-cursor-text.png), text;
+  */
 }
 
 [data-theme="dark"] {
   &:root {
-    --red-0: var(--red-1);
-    --red-4: rgba(255, 208, 208, 0.5);
-    --red-5: rgba(255, 228, 228, 0.2);
-    --red-5-5: rgba(255, 236, 236, 0.1);
-    --red-6: rgba(255, 243, 243, 0.2);
+ --red-0: #309FB1;
+  --red-1: #288B9B;
+  --red-2: #25808E;
+  --red-3: #20707C;
+  --red-4: #176470;
+  --red-5: #104F59;
+  --red-5-5: #0A4851;
+  --red-6: #052D34;
 
     --color-archive-year: #999;
     --color-default: #999;

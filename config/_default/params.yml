@@ -26,9 +26,9 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-description: "少女祈祷中..."
-subtitle: "少女祈祷中..."
+author: EterIll
+description: "❤️丹恒·饮月"
+subtitle: "恒寂幻灭 | 艾特里尔"
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -36,7 +36,7 @@ banner: "images/banner.webp"
 
 # If you want to use the srcset attribute, please enable it
 banner_srcset:
-  enable: false
+  enable: true
   srcset:
     - src: "images/banner-600w.webp"
       media: "(max-width: 479px)"
@@ -45,7 +45,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar.webp"
+avatar: "images/avatar.webp"
 
 # Open Graph
 open_graph:
@@ -63,7 +63,7 @@ open_graph:
 excerpt_link: Read More
 
 footer:
-  since: 2020 # 2020-current year
+  since: 2024 # 2020-current year
   powered: true
   count: true
   busuanzi: true
@@ -76,10 +76,10 @@ footer:
 sidebar: right
 
 social:
-  # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+  email: mailto:eterill@hotmail.com
+  github: https://github.com/EternalIllusion
   # google: https://plus.google.com/yourname
-  # twitter: https://twitter.com/yourname
+  twitter: https://x.com/EternalIllusion
   # facebook: https://www.facebook.com/yourname
   # instagram: https://www.instagram.com/yourname
   # linkedin: https://www.linkedin.com/in/yourname
@@ -89,7 +89,7 @@ social:
   # flickr: https://www.flickr.com/photos/yourname
   # dribbble: https://dribbble.com/yourname
   # behance: https://www.behance.net/yourname
-  # bilibili: https://space.bilibili.com/yourname
+  bilibili: https://space.bilibili.com/493559409
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
@@ -264,7 +264,7 @@ algolia_search:
 
 preloader:
   enable: true
-  text: 少女祈祷中...
+  text: Loading ...
   icon:  # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
 
 # see https://github.com/D-Sketon/aos.js
@@ -302,7 +302,7 @@ firework:
       - shape: circle
         move: ["emit"]
         easing: easeOutExpo
-        colors: ["#ff5252", "#ff7c7c", "#ffafaf", "#ffd0d0"]
+        colors: ["#228898", "#309FB1", "#54B8C8", "#5AC4D5"]
         number: 20
         duration: [1200, 1800]
         shapeOptions:
