@@ -1,16 +1,20 @@
+<img src="https://cdn.jsdelivr.net/gh/D-Sketon/hugo-theme-reimu@main/images/screenshot.png"/>
 <div align = center>
-  <h1>hugo-theme-reimu-imbibitor-lunae-mod</h1>
+  <h1>hugo-theme-reimu</h1>
+  <img alt="version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FD-Sketon%2Fhugo-theme-reimu%2Fraw%2Fmain%2Fpackage.json&query=%24.version&label=version">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/D-Sketon/hugo-theme-reimu">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/D-Sketon/hugo-theme-reimu">
   <p align="center">
-  💘 Imbibitor  Lunae 💘
+  💘 博麗 霊夢 💘
   </p>
 
-[演示网站](https://eternalillusuon.github.io/hugo-theme-reimu) | [迁移指南](https://d-sketon.github.io/20241110/hexo-to-hugo-guide/)
+[演示网站](https://d-sketon.github.io/hugo-theme-reimu) | [迁移指南](https://d-sketon.github.io/20241110/hexo-to-hugo-guide/)
+
+简体中文 | [English](https://github.com/D-Sketon/hugo-theme-reimu/blob/main/README.en.md)
+
 </div>
 
-A Modified version of Hakurei Reimu style Hugo theme. Migrated from [hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu).
-In order to deal with git submodule issues(cannot init submodule).
-
-The following is thw original README.
+A Hakurei Reimu style Hugo theme. Migrated from [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu).
 
 ---
 
